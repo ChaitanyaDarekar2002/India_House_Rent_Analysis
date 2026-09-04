@@ -90,21 +90,16 @@ This dashboard helps analyze:
 | DAX | Calculations & Measures |
 | GitHub | Project Documentation |
 
-## 🔄 Project Pipeline
 
-```text
-Raw Dataset
-     ↓
-Python / Pandas
-     ↓
-Data Cleaning & Transformation
-     ↓
-Cleaned Dataset
-     ↓
-Power BI
-     ↓
-DAX Measures
-     ↓
-Interactive Dashboard
-     ↓
-Business Insights
+
+## 🎯 Project Objective
+
+The objective of this project is to transform raw house rental data into meaningful insights using Python for data cleaning and Power BI for data analysis and visualization.
+
+The analysis provides a clear understanding of rental trends, property characteristics, city-wise rental performance, and tenant preferences across India.
+
+## 👨‍💻 Author
+
+# Chaitanya Darekar
+
+⭐ If you find this project useful, feel free to star the repository.
