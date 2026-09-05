@@ -93,6 +93,8 @@ This dashboard helps analyze:
 | DAX | Calculations & Measures |
 | GitHub | Project Documentation |
 
+<img width="1907" height="974" alt="Screenshot 2026-09-04 134633" src="https://github.com/user-attachments/assets/b5916e78-27d9-4044-aecc-0f3814c07df3" />
+
 
 
 ## 🎯 Project Objective
