@@ -58,6 +58,9 @@ The cleaned dataset was imported into **Microsoft Power BI** to create an intera
 - Monthly Property and Size Analysis
 - Monthly Rent by City
 
+<img width="1905" height="980" alt="Screenshot 2026-09-04 134603" src="https://github.com/user-attachments/assets/b9e4df33-afc7-4592-8b87-2e15cf622319" />
+
+
 ### 🔎 Filters
 
 Users can analyze the data based on tenant preferences:
